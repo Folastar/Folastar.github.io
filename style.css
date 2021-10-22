@@ -30,7 +30,7 @@ button{position: absolute;
     background: #333333;
     padding: 20px;
 }
-footer{
+footer{position:fixed;
     text-align: center;
     font-family: "montserrat" sans-serif;
     color: #bdbdbd;
