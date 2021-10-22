@@ -1,0 +1,38 @@
+h6{
+    margin-left: 77px;
+    font-size: 14px;
+    font-family: "inconsolata" monospace;
+
+}
+img{
+    margin-left: 77px;
+    width: 700px;
+    height: 650px;
+}
+h3{
+    position: absolute;
+    margin-left: 900px;
+    top: 130px;
+    font-family:"spacemono" monospace;
+    font-size: 32px;
+    font-weight: 700;
+}
+p{  position: absolute;
+    top: 345px;
+    left: 900px;
+    font-family:"spacemono" monospace;
+    font-weight: 400;
+    
+}
+button{position: absolute;
+    top: 548px;
+    left: 900px;
+    background: #333333;
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    font-family: "montserrat" sans-serif;
+    color: #bdbdbd;
+    font-size: 14px;
+}
